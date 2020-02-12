@@ -1,1 +1,3 @@
-mailjet-sms
+# mailjet-sms
+
+## Getting Started
